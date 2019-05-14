@@ -17,6 +17,7 @@ class QuizQuestion extends Component {
       this.setState({ incorrectAnswer: true })
     }
   }
+  had
   render() {
     return (
       <div>
